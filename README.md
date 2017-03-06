@@ -1,0 +1,2 @@
+# PrivateSpecs
+Private Git Specs
