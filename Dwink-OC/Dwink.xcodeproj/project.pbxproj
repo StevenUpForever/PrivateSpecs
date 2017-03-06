@@ -519,7 +519,7 @@
 		AFDBA4911C83944200E94D20 = {
 			isa = PBXGroup;
 			children = (
-				AFDBA49C1C83944200E94D20 /* Dwink */,
+				AFDBA49C1C83944200E94D20 /* Dwink-OC */,
 				AFDBA49B1C83944200E94D20 /* Products */,
 				B64E8BE4F018BF02A845DF80 /* Pods */,
 				AF93A51E1DF40D3700248305 /* Source */,
@@ -535,7 +535,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		AFDBA49C1C83944200E94D20 /* Dwink */ = {
+		AFDBA49C1C83944200E94D20 /* Dwink-OC */ = {
 			isa = PBXGroup;
 			children = (
 				AFDBA4A01C83944200E94D20 /* AppDelegate.h */,
@@ -551,6 +551,7 @@
 				AFAA86121C9F513A00CB8DE6 /* Main Part */,
 				AFDBA49D1C83944200E94D20 /* Supporting Files */,
 			);
+			name = "Dwink-OC";
 			path = Dwink;
 			sourceTree = "<group>";
 		};
